@@ -13,7 +13,7 @@ Al usar Inteligencia Artificial, la frase que el usuario introduce puede no ser 
 
 ## Uso
 **1. Instala las librerias necesarias para ejecutar el programa:** <br>
-   Estas se encuentran en el archivo principal, ya preparadas para ejecutar. <br>
+   Estas se encuentran en el archivo Libraries, ya preparadas para ejecutar. <br>
 
 **2. Introduce el nombre de las canciones que quieras comparar y la letra:** <br>
   Por defecto, el programa incluye algunas canciones de ejemplo. Simplemete cambia los nombres y pega la letra de las canciones que quieras comparar: <br>
@@ -53,7 +53,7 @@ Through the use of Artificial Intelligence, this program excels in recognizing s
 
 ## Usage
 **1. Install the required libraries to run the program:** <br>
-   These are located in the main file, already prepared for execution. <br>
+   These are located in the Libraries file, already prepared for execution. <br>
 
 **2. Enter the names of the songs you want to compare and their lyrics:** <br>
    By default, the program includes some example songs. Simply change the names and paste the lyrics of the songs you want to compare: <br>
